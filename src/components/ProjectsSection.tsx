@@ -46,7 +46,7 @@ const projects: FilmProject[] = [
     number: '03',
     title: 'Anjathe',
     category: 'TAMIL VERTICAL WEB SERIES',
-    role: 'PRODUCTION EXPERIENCE',
+    role: 'ASSISTANT DIRECTOR',
     description:
       'A vertical-series project shaped by collaborative production and mobile-first screen storytelling.',
     credits: ['Vertical storytelling', 'Team collaboration', 'Production'],
@@ -58,7 +58,7 @@ const projects: FilmProject[] = [
     number: '04',
     title: 'Tom & Sakthi',
     category: 'TAMIL VERTICAL WEB SERIES',
-    role: 'PRODUCTION EXPERIENCE',
+    role: 'ASSISTANT DIRECTOR',
     description:
       'A vertical web-series production contributing to the collaborative process of screen storytelling.',
     credits: ['Production workflow', 'Continuity', 'On-set teamwork'],
@@ -70,7 +70,7 @@ const projects: FilmProject[] = [
     number: '05',
     title: '7Screen Adfilmz',
     category: 'AD FILMS & CREATIVE CONTENT',
-    role: 'INSTAGRAM REEL',
+    role: 'ASSISTANT DIRECTOR',
     description:
       'Explore the creative video content and advertising work featured on the 7Screen Adfilmz Instagram profile.',
     credits: ['Ad films', 'Visual storytelling', 'Creative content'],
@@ -82,7 +82,7 @@ const projects: FilmProject[] = [
     number: '06',
     title: '7Screen Adfilmz - 6th',
     category: 'INSTAGRAM REEL',
-    role: 'SHORT-FORM VIDEO',
+    role: 'ASSISTANT DIRECTOR',
     description:
       'Watch this Instagram Reel and explore another piece of short-form visual content.',
     credits: ['Visual storytelling', 'Short-form content', 'Video'],
