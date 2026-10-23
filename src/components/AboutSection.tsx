@@ -20,7 +20,7 @@ const AboutSection: React.FC = () => {
           className="mb-12 flex items-center gap-4"
         >
           <span className="text-[11px] tracking-[0.35em] text-[#C9A875]">
-            02 / THE FILMMAKER
+            02 / THE FILMMAKER &  brand storyteller
           </span>
           <div className="h-px w-20 bg-[#C9A875]/50" />
         </motion.div>

@@ -96,7 +96,7 @@ export const HeroSection: React.FC = () => {
             className="max-w-4xl"
           >
             <p className="mb-6 text-[10px] tracking-[0.35em] text-[#C9A875] sm:text-xs">
-              FILMMAKER · WRITER · DIRECTOR
+              FILMMAKER · WRITER · DIRECTOR · Story led branding · Visual story telling
             </p>
 
             <h1 className="font-['Bebas_Neue',sans-serif] text-7xl uppercase leading-[0.83] tracking-tight sm:text-8xl md:text-[9rem] lg:text-[11rem]">
