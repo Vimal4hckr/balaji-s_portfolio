@@ -94,7 +94,7 @@ const projects: FilmProject[] = [
     number: '07',
     title: '7 star awards 2025',
     category: 'INSTAGRAM REEL',
-    role: 'SHOW - ASSISTANT DIRECTOR & PR-TEAM',
+    role: 'SHOW - ASSISTANT DIRECTOR & PR-TEAM ',
     description:
       'Watch this Instagram Reel and explore another piece of short-form visual content.',
     credits: ['Event Organizer', 'Short-form content', 'Video'],
