@@ -42,6 +42,7 @@ const projects: FilmProject[] = [
     link: 'https://youtu.be/e6deyphAA78?si=xOMj-OZIb-LoLAJc',
     linkLabel: 'WATCH ON INSTAGRAM',
   },
+  
   {
     number: '03',
     title: 'Anjathe',
@@ -56,18 +57,6 @@ const projects: FilmProject[] = [
   },
   {
     number: '04',
-    title: 'Tom & Sakthi',
-    category: 'TAMIL VERTICAL WEB SERIES',
-    role: 'ASSISTANT DIRECTOR',
-    description:
-      'A vertical web-series production contributing to the collaborative process of screen storytelling.',
-    credits: ['Production workflow', 'Continuity', 'On-set teamwork'],
-    image: '/images/tom-sakthi-cover.png',
-    link: 'https://www.instagram.com/reel/DUukxvVk7NC/?obrf=MTI5bGlhdnAyMjF6Mg==',
-    linkLabel: 'WATCH ON INSTAGRAM',
-  },
-  {
-    number: '05',
     title: '7Screen Adfilmz',
     category: 'AD FILMS & CREATIVE CONTENT',
     role: 'ASSISTANT DIRECTOR',
@@ -76,6 +65,18 @@ const projects: FilmProject[] = [
     credits: ['Ad films', 'Visual storytelling', 'Creative content'],
     image: '/images/7screen-adfilmz-cover.png',
     link: 'https://www.instagram.com/reel/DUqcC95kwoR/?exln=MXdlZWZseGpoMGhqOA==',
+    linkLabel: 'WATCH ON INSTAGRAM',
+  },
+  {
+    number: '05',
+    title: 'Tom & Sakthi',
+    category: 'TAMIL VERTICAL WEB SERIES',
+    role: 'ASSISTANT DIRECTOR',
+    description:
+      'A vertical web-series production contributing to the collaborative process of screen storytelling.',
+    credits: ['Production workflow', 'Continuity', 'On-set teamwork'],
+    image: '/images/tom-sakthi-cover.png',
+    link: 'https://www.instagram.com/reel/DUukxvVk7NC/?obrf=MTI5bGlhdnAyMjF6Mg==',
     linkLabel: 'WATCH ON INSTAGRAM',
   },
   {
