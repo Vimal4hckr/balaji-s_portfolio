@@ -1,7 +1,8 @@
+
 import React from 'react';
 import { motion } from 'framer-motion';
 import aboutImg from '/images/balaji-portrait.png';
- 
+
 const AboutSection: React.FC = () => {
   return (
     <section
@@ -62,9 +63,11 @@ const AboutSection: React.FC = () => {
 
               <div className="flex items-center justify-between px-3 py-4">
                 <span className="text-[9px] tracking-[0.2em] text-[#A8988B]">
-                    
+                  FILMMAKER PROFILE
                 </span>
-                <span className="text-xs text-[#C9A875]"   /   </span>
+                <span className="text-xs text-[#C9A875]">
+                  BL. / 001
+                </span>
               </div>
             </div>
           </motion.div>
