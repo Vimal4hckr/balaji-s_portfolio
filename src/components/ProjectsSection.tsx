@@ -39,7 +39,7 @@ const projects: FilmProject[] = [
       'Feature-film production experience, supporting the filmmaking process and the team on set.',
     credits: ['Assistant direction', 'On-set coordination', 'Production'],
     image: '/images/7star-awards-cover.png',
-    link: 'https://www.instagram.com/reel/DS983Jhko3K/?obrf=MWozZ3BzczJnMTdocA==',
+    link: 'https://youtu.be/e6deyphAA78?si=xOMj-OZIb-LoLAJc',
     linkLabel: 'WATCH ON INSTAGRAM',
   },
   {
@@ -80,14 +80,14 @@ const projects: FilmProject[] = [
   },
   {
     number: '06',
-    title: '7Screen Adfilmz - 6th',
+    title: '7 star awards 2025',
     category: 'INSTAGRAM REEL',
     role: 'ASSISTANT DIRECTOR',
     description:
       'Watch this Instagram Reel and explore another piece of short-form visual content.',
     credits: ['Visual storytelling', 'Short-form content', 'Video'],
     image: '/images/viswak-adfilm-cover.png',
-    link: 'https://www.instagram.com/reel/DRM0lehk3yG/?xtok=d3F4ZXRtbXMwcWNw',
+    link: 'https://www.instagram.com/reel/DS983Jhko3K/?obrf=MWozZ3BzczJnMTdocA==',
     linkLabel: 'WATCH ON INSTAGRAM',
   },
 ];
