@@ -94,10 +94,10 @@ const projects: FilmProject[] = [
     number: '07',
     title: '7 star awards 2025',
     category: 'INSTAGRAM REEL',
-    role: 'ASSISTANT DIRECTOR',
+    role: 'SHOW - ASSISTANT DIRECTOR & PR-TEAM',
     description:
       'Watch this Instagram Reel and explore another piece of short-form visual content.',
-    credits: ['Visual storytelling', 'Short-form content', 'Video'],
+    credits: ['Event Organizer', 'Short-form content', 'Video'],
     image: '/images/7star-awards-cover.png',
     link: 'https://www.instagram.com/reel/DS983Jhko3K/?obrf=MWozZ3BzczJnMTdocA==',
     linkLabel: 'WATCH ON INSTAGRAM',
