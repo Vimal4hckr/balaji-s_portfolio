@@ -38,11 +38,10 @@ const projects: FilmProject[] = [
     description:
       'Feature-film production experience, supporting the filmmaking process and the team on set.',
     credits: ['Assistant direction', 'On-set coordination', 'Production'],
-    image: '/images/ring-cover.png',
+    image: '/images/ring.png',
     link: 'https://youtu.be/e6deyphAA78?si=xOMj-OZIb-LoLAJc',
     linkLabel: 'WATCH ON INSTAGRAM',
   },
-  
   {
     number: '03',
     title: 'Anjathe',
@@ -55,7 +54,7 @@ const projects: FilmProject[] = [
     link: 'https://www.instagram.com/reel/DQ11EjKk6x1/?psln=MTM3ZDhuOXhyZnk2eQ==',
     linkLabel: 'WATCH ON INSTAGRAM',
   },
-  {
+   {
     number: '04',
     title: '7Screen Adfilmz',
     category: 'AD FILMS & CREATIVE CONTENT',
@@ -63,8 +62,8 @@ const projects: FilmProject[] = [
     description:
       'Explore the creative video content and advertising work featured on the 7Screen Adfilmz Instagram profile.',
     credits: ['Ad films', 'Visual storytelling', 'Creative content'],
-    image: '/images/7screen-adfilmz-cover.png',
-    link: 'https://www.instagram.com/reel/DUqcC95kwoR/?exln=MXdlZWZseGpoMGhqOA==',
+    image: '/images/viswak-adfilm-cover.png',
+    link: 'https://www.instagram.com/reel/DRM0lehk3yG/?xtok=d3F4ZXRtbXMwcWNw',
     linkLabel: 'WATCH ON INSTAGRAM',
   },
   {
@@ -81,6 +80,18 @@ const projects: FilmProject[] = [
   },
   {
     number: '06',
+    title: '7Screen Adfilmz',
+    category: 'AD FILMS & CREATIVE CONTENT',
+    role: 'ASSISTANT DIRECTOR',
+    description:
+      'Explore the creative video content and advertising work featured on the 7Screen Adfilmz Instagram profile.',
+    credits: ['Ad films', 'Visual storytelling', 'Creative content'],
+    image: '/images/7screen-adfilmz-cover.png',
+    link: 'https://www.instagram.com/reel/DUqcC95kwoR/?exln=MXdlZWZseGpoMGhqOA==',
+    linkLabel: 'WATCH ON INSTAGRAM',
+  },
+  {
+    number: '07',
     title: '7 star awards 2025',
     category: 'INSTAGRAM REEL',
     role: 'ASSISTANT DIRECTOR',
