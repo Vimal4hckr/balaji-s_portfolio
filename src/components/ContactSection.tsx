@@ -91,7 +91,7 @@ export const ContactSection: React.FC = () => {
               </a>
 
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/lbalaji16/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-[10px] tracking-[0.2em] text-[#C9A875] transition hover:text-white"
