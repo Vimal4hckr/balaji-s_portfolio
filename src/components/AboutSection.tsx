@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import aboutImg from '/images/balaji-portrait.png';
+import aboutImg from '/images/Cinematic.png';
 
 const AboutSection: React.FC = () => {
   return (
