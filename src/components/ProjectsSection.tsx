@@ -39,7 +39,7 @@ const projects: FilmProject[] = [
       'Feature-film production experience, supporting the filmmaking process and the team on set.',
     credits: ['Assistant direction', 'On-set coordination', 'Production'],
     image: '/images/7star-awards-cover.png',
-    link: 'https://www.instagram.com/reel/DS983Jhko3K/?obrf=MWozZ3BzczJnMTdocA==',
+    link: 'https://youtu.be/e6deyphAA78?si=xOMj-OZIb-LoLAJc',
     linkLabel: 'WATCH ON INSTAGRAM',
   },
   {
